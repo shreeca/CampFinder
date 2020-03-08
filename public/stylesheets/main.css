@@ -1,0 +1,17 @@
+.img-thumbnail{
+    width: 100%;
+    padding: 0;
+}
+.img-thumbnail p{
+    padding: 9px;
+}
+.img-thumbnail a{
+    padding: 9px;
+}
+
+#delete-form{
+    display: inline;
+}
+h1{
+    font-family: 'Source Serif Pro', serif;
+}
