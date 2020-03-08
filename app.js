@@ -11,8 +11,9 @@ var LocalStrategy = require("passport-local");
 methodOverride = require("method-override");
 var User = require("./models/user");
 
-
+//****************************
 //Requiring Routes
+//****************************
 
 var commentRoutes = require("./routes/comments");
 var campgroundRoutes = require("./routes/campgrounds");
