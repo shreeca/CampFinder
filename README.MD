@@ -1,6 +1,6 @@
 # CampFinder
 
-CampFinder is an application built with Express.js and Mongodb where users can find camps around the world and their details, they can also add and read comments on each camps.
+CampFinder is an application built with Express.js and Mongodb to find camps and their details, users can add and read comments on each camps.
 
   - NodeJS
   - ExpressJS
